@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# OS-specific
+__pycache__/
+*.pyc
+
+# Configs
+config.py
+
+# Data
+historic_data/
+*.csv
+
+# IDE settings
+.vscode/
+.idea/
