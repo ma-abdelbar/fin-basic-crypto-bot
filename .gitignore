@@ -9,8 +9,8 @@ __pycache__/
 config.py
 
 # Data
-historic_data/
-*.csv
+# historic_data/
+# *.csv
 
 # IDE settings
 .vscode/
